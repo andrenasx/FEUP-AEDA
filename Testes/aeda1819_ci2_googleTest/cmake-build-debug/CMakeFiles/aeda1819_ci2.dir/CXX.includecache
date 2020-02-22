@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci2_googleTest/Tests/Kart.cpp
+cstdlib
+-
+iostream
+-
+queue
+-
+sstream
+-
+vector
+-
+time.h
+-
+string
+-
+algorithm
+-
+Kart.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci2_googleTest/Tests/Kart.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci2_googleTest/Tests/Kart.h
+cstdlib
+-
+iostream
+-
+queue
+-
+sstream
+-
+vector
+-
+time.h
+-
+

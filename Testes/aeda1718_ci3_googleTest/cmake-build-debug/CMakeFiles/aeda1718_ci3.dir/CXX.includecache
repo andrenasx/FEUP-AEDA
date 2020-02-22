@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Expertize.h
+string
+-
+Student.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Student.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/FEUPConsulting.cpp
+FEUPConsulting.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/FEUPConsulting.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/FEUPConsulting.h
+BST.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/BST.h
+vector
+-
+unordered_set
+-
+queue
+-
+Expertize.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Expertize.h
+Student.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Student.h
+Project.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Project.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Project.h
+string
+-
+Student.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Student.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci3_googleTest/Tests/Student.h
+string
+-
+vector
+-
+utility
+-
+

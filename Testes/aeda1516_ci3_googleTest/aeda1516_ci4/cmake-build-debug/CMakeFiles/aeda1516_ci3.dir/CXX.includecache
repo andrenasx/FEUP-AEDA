@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/Cinema.cpp
+Cinema.h
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/Cinema.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/Cinema.h
+string
+-
+BST.h
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/BST.h
+FilmTime.h
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/FilmTime.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/Film.h
+string
+-
+list
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/FilmTime.h
+Film.h
+D:/FEUP/2 - 1 S/AEDA/aeda1516_ci3_googleTest/aeda1516_ci4/Tests/Film.h
+

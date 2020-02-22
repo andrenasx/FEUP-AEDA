@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Doctor.cpp
+Doctor.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Doctor.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Doctor.h
+string
+-
+queue
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Hospital.cpp
+Hospital.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Hospital.h
+algorithm
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Hospital.h
+list
+-
+stack
+-
+Doctor.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Doctor.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/main.cpp
+iostream
+-
+string
+-
+list
+-
+stack
+-
+queue
+-
+Doctor.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Doctor.h
+Hospital.h
+D:/FEUP/2 - 1 S/AEDA/aeda1718_ci2_Test/Hospital.h
+

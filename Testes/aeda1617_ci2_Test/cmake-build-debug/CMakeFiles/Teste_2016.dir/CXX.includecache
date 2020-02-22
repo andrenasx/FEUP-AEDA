@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/AfterSalesService.cpp
+algorithm
+-
+stdexcept
+-
+AfterSalesService.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/AfterSalesService.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/AfterSalesService.h
+vector
+-
+queue
+-
+vector
+-
+Article.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/Article.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/Article.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/Purchase.h
+stack
+-
+list
+-
+vector
+-
+Article.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/Article.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/main.cpp
+iostream
+-
+string
+-
+math.h
+-
+Article.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/Article.h
+AfterSalesService.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/AfterSalesService.h
+Purchase.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci2_Test/Purchase.h
+

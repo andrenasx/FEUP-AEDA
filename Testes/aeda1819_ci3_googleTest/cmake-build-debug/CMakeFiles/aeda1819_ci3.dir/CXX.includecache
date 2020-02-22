@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/Client.h
+string
+-
+vector
+-
+tuple
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/ClientRecord.h
+string
+-
+Client.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/Client.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/Property.h
+string
+-
+Client.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/Client.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/PropertyTypeItem.h
+Property.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/Property.h
+Client.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/Client.h
+string
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/REAgency.cpp
+REAgency.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/REAgency.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/REAgency.h
+BST.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/BST.h
+vector
+-
+iostream
+-
+tr1/unordered_set
+-
+queue
+-
+ClientRecord.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/ClientRecord.h
+PropertyTypeItem.h
+D:/FEUP/2 - 1 S/AEDA/aeda1819_ci3_googleTest/Tests/PropertyTypeItem.h
+

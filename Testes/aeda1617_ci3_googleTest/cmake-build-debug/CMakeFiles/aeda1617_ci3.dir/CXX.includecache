@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/Book.h
+User.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/User.h
+string
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/ReadingClub.cpp
+ReadingClub.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/ReadingClub.h
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/ReadingClub.h
+Book.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/Book.h
+User.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/User.h
+BST.h
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/BST.h
+vector
+-
+tr1/unordered_set
+-
+queue
+-
+
+D:/FEUP/2 - 1 S/AEDA/aeda1617_ci3_googleTest/Tests/User.h
+string
+-
+vector
+-
+utility
+-
+
